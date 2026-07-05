@@ -1,6 +1,7 @@
 this is the first text coded
 userid vikas
 
+<<<<<<< HEAD
 the pro man vc
 now on the road
 this one for sure
@@ -9,3 +10,8 @@ and this one also
 kya hal hai  
 git config --global user.email "rk500raghvendra@gmail.com"
   git config --global user.name "Raghvendra Kumar"
+=======
+Ragha Bhaiya
+
+hi sir
+>>>>>>> e67d0a66f229e41205e9c24331a16883fd0d7e4a
